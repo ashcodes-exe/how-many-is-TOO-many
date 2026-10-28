@@ -13,7 +13,7 @@ While tools like ImageJ and Fiji do this easily, I wanted to see if this could b
 ## What each step does
 1. **Load and display**: reading and showing a plate image with OpenCV
 2. **Display with matplotlib**: an alternative way to visualize the same image
-3. **Color conversion**: converting BGR to HSV color space
+3. **Colour conversion**: converting BGR to HSV color space
 4. **Inspect pixel data**: viewing the raw pixel matrix and image shape
 5. **Colony counter**: grayscale thresholding, Canny edge detection, contour 
    extraction, and area-based filtering to isolate and count colonies
